@@ -1,4 +1,4 @@
-import Image from 'next/image'
+//npm run devimport Image from 'next/image'
 import { Inter } from '@next/font/google'
 //import styles from './page.module.css'
 
